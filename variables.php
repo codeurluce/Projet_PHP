@@ -8,6 +8,7 @@ $users = [
     [
         'full_name' => 'Mathieu Nebra',
         'email' => 'mathieu.nebra@exemple.com',
+        'password' => 'MiamMiam',
         'age' => 34,
     ],
     [
