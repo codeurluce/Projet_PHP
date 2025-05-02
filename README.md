@@ -15,7 +15,7 @@ Un site web dynamique développé en PHP, permettant aux utilisateurs de découv
 
 * **Langage principal :** PHP
 * **Base de données :** SQLite
-* **Frontend :** HTML, CSS, Bootstrap (optionnel)
+* **Frontend :** HTML, CSS, Bootstrap
 * **Serveur local recommandé :** XAMPP
 
 ## 🚀 Installation
