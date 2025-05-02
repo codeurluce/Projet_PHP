@@ -33,4 +33,4 @@ Un site web dynamique développé en PHP, permettant aux utilisateurs de découv
 
 ## 📚 À propos
 
-Ce projet m'a permis de consolider mes compétences en PHP, gestion de base de données, et structuration d'une application web dynamique. C'est projet fil rouge du cours "Concevez un site web avec PHP & MySQL" créé par Mathieu Nebra et mis à jour par Mickaël Andrieu et Stéphane Bourse, sur openclassroom.
+Ce projet m'a permis de consolider mes compétences en PHP, gestion de base de données, et structuration d'une application web dynamique.
