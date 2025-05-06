@@ -21,7 +21,7 @@ Un site web dynamique développé en PHP, permettant aux utilisateurs de découv
 ## 🚀 Installation
 
 1. Clonez le dépôt :
-- git clone https://github.com/votre-utilisateur/nom-du-projet.git
+- git clone https://github.com/codeurluce/Recette_PHP
 - cd nom-du-projet
 
 2. Configurez votre base de données (MySQL ou SQLite selon votre choix).
